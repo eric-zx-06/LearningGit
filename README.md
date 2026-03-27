@@ -1,3 +1,3 @@
 # LearningGit
 
-This is a description for the README file.
+This is a description for my first README file. 
